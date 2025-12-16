@@ -1,0 +1,26 @@
+ion-card {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+
+  img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+}
+
+ion-card-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+ion-card-subtitle {
+  font-size: 1rem;
+  color: #666;
+}
+
+ion-card-content p {
+  margin-bottom: 0.5rem;
+}

@@ -1,7 +1,0 @@
-{
-  "name": "propertyApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
